@@ -1,5 +1,11 @@
 # ImageToolBox
-A web based application for commonly used image pre-processing tasks
+A web based application for commonly used image pre-processing tasks.
+
+Created as a part of **Course Project - Computer Vision** by,
+Meenatchi K V,
+Research Scholar,
+Dept. of CSE,
+Amrita Vishwa Vidyapeetham, Chennai
 
 Required Softwares:
 1. XAMPP or other server
